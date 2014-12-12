@@ -1,4 +1,4 @@
-pecha kucha presentation
+Friends, Strangers and other Stories
 ========================
 
 Presentation slides of Pecha Kucha Night presenation I did.
