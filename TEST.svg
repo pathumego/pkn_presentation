@@ -76,15 +76,64 @@
        style="fill:#ffffff;stroke-width:0.26458332"
        id="path3361"
        cx="131.53572"
-       cy="235.38989"
+       cy="228.58632"
        rx="15.119047"
        ry="15.497024" />
     <ellipse
        ry="15.497024"
        rx="15.119047"
-       cy="237.65775"
-       cx="167.82143"
+       cy="234.63394"
+       cx="193.5238"
        id="ellipse3363"
+       style="fill:#ffffff;stroke-width:0.26458332" />
+    <ellipse
+       ry="15.497025"
+       rx="15.119047"
+       cy="160.92857"
+       cx="65.011917"
+       id="ellipse3363-3"
+       style="fill:#ffffff;stroke-width:0.26458332" />
+    <ellipse
+       ry="15.497025"
+       rx="15.119047"
+       cy="161.68452"
+       cx="221.49405"
+       id="ellipse3363-6"
+       style="fill:#ffffff;stroke-width:0.26458332" />
+    <ellipse
+       ry="15.497025"
+       rx="15.119047"
+       cy="168.4881"
+       cx="155.72618"
+       id="ellipse3363-0"
+       style="fill:#ffffff;stroke-width:0.26458332" />
+    <ellipse
+       ry="15.497025"
+       rx="15.119047"
+       cy="215.35713"
+       cx="257.0238"
+       id="ellipse3363-4"
+       style="fill:#ffffff;stroke-width:0.26458332" />
+    <ellipse
+       ry="15.497025"
+       rx="15.119047"
+       cy="264.49405"
+       cx="59.720253"
+       id="ellipse3363-1"
+       style="fill:#ffffff;stroke-width:0.26458332" />
+    <ellipse
+       ry="15.497025"
+       rx="15.119047"
+       cy="124.64286"
+       cx="98.273811"
+       id="ellipse3363-1-1"
+       style="fill:#ffffff;stroke-width:0.26458332" />
+    <ellipse
+       ry="15.497025"
+       rx="15.119047"
+       cy="123.13095"
+       cx="173.1131"
+       id="ellipse3363-1-4"
        style="fill:#ffffff;stroke-width:0.26458332" />
   </g>
 </svg>
