@@ -71,6 +71,13 @@
          id="tspan3359"
          x="108.93273"
          y="197.21429"
-         style="font-size:25.39999962px;fill:#ffffff;stroke-width:0.26458332px">H</tspan></text>
+         style="font-size:25.39999962px;fill:#ffffff;stroke-width:0.26458332px" /></text>
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.26458332"
+       id="path3361"
+       cx="32.505951"
+       cy="261.84824"
+       rx="15.119047"
+       ry="15.497024" />
   </g>
 </svg>
