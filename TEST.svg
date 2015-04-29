@@ -75,9 +75,16 @@
     <ellipse
        style="fill:#ffffff;stroke-width:0.26458332"
        id="path3361"
-       cx="90.714287"
-       cy="264.11609"
+       cx="131.53572"
+       cy="266.38394"
        rx="15.119047"
        ry="15.497024" />
+    <ellipse
+       ry="15.497024"
+       rx="15.119047"
+       cy="265.62799"
+       cx="131.53571"
+       id="ellipse3363"
+       style="fill:#ffffff;stroke-width:0.26458332" />
   </g>
 </svg>
