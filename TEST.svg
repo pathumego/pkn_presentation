@@ -135,5 +135,26 @@
        cx="173.1131"
        id="ellipse3363-1-4"
        style="fill:#ffffff;stroke-width:0.26458332" />
+    <ellipse
+       ry="15.497025"
+       rx="15.119047"
+       cy="269.78571"
+       cx="250.22025"
+       id="ellipse3363-1-9"
+       style="fill:#ffffff;stroke-width:0.26458332" />
+    <ellipse
+       ry="15.497025"
+       rx="15.119047"
+       cy="219.89285"
+       cx="48.380947"
+       id="ellipse3363-1-98"
+       style="fill:#ffffff;stroke-width:0.26458332" />
+    <ellipse
+       ry="15.497025"
+       rx="15.119047"
+       cy="122.37499"
+       cx="35.529762"
+       id="ellipse3363-1-3"
+       style="fill:#ffffff;stroke-width:0.26458332" />
   </g>
 </svg>
